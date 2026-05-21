@@ -106,16 +106,6 @@ Rescue Roy is free for users. We generate revenue through:
 **Cost to run the app annually:** R744,000 (hosting, support, legal)  
 **Profit after year 1:** R4.6M (before paying 100 UFS students)
 
----
-
-## 🏆 Why Standard Bank Wins
-
-| Standard Bank priority | How Rescue Roy delivers |
-|------------------------|-------------------------|
-| **Customer acquisition** | When Your Standard saves a child, the Standard Bank logo is on the screen. That mother is a customer for life. |
-| **Financial inclusion** | Community Responders get a verifiable trust score → they become bankable. |
-| **CSI with measurable ROI** | Every emergency resolved, every responder trained, every heatmap generated — all reportable, auditable, and aligned with SDG commitments. |
-| **The bridge banks fail to build** | "Banks only help people with salaries." Rescue Roy proves otherwise. Standard Bank becomes the name that showed up when the ambulance was 40 minutes away. |
 
 ---
 
