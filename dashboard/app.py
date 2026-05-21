@@ -12,7 +12,7 @@ st.subheader("📊 Bloemfontein Real-Time Emergency Overview (Mock Data)")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("bloemfontein_emergencies.csv")
+    df = pd.read_csv("data/bloemfontein_emergencies.csv")
     df["timestamp"] = pd.to_datetime(df["timestamp"])
     return df
 
