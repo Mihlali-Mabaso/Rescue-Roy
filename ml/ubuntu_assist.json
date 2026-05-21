@@ -1,0 +1,192 @@
+{
+  "Choking": {
+    "qa": [
+      {
+        "question": "What should I do if a child is choking?",
+        "answer": "Give 5 back slaps, then 5 chest thrusts. If unconscious, start CPR.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngenze njani uma umntwana ekhala?",
+        "answer": "Yenza i-back slaps ezi-5, bese i-chest thrusts ezi-5. Uma enganyakazi, qala i-CPR.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho etsa joang ha ngoana a khang?",
+        "answer": "Etsa li-back slaps tse 5, ebe li-chest thrusts tse 5. Ha a sa tsitsa, qala CPR.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Bleeding": {
+    "qa": [
+      {
+        "question": "Should I remove the object from the wound?",
+        "answer": "No. Apply pressure around the object. Do not remove it.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngikhiphe into esikhenkqeni?",
+        "answer": "Cha. Cindezela ema-circumstances around the object. Ungasusi into esikhenkqeni.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho tlosa ntho leqebeng?",
+        "answer": "Che. Hatella ho potoloha ntho. U se ke oa e tlosa.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Burns": {
+    "qa": [
+      {
+        "question": "Should I put butter on a burn?",
+        "answer": "No. Use cool water for 20 minutes. Never apply butter or oil.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngifake i-butter emzimbeni?",
+        "answer": "Cha. Sebenzisa amanzi apholile imizuzu engama-20. Ungafaki i-butter noma i-oil.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho tšela seretse leqebeng?",
+        "answer": "Che. Sebelisa metsi a pholileng metsotso e 20. U se ke oa tšela seretse kapa oli.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Cardiac": {
+    "qa": [
+      {
+        "question": "How fast should I do CPR compressions?",
+        "answer": "100 to 120 per minute. Press 5-6 cm deep.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngicindezele kanjani i-CPR?",
+        "answer": "Cindezela phakathi kwe-100 no-120 ngomzuzu. Cindezela ubude be-5-6 cm.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho hatella CPR ka lebelo lefe?",
+        "answer": "100 ho isa 120 ka motsotso. Hatella botebo ba 5-6 cm.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Seizure": {
+    "qa": [
+      {
+        "question": "Should I put something in their mouth?",
+        "answer": "No. Never put anything in their mouth. Turn them on their side.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngifake into emlonyeni womuntu?",
+        "answer": "Cha. Ungafaki lutho emlonyeni. Muphendulele eceleni.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho kenya ntho ka hanong?",
+        "answer": "Che. U se ke oa kenya letho ka hanong. Mo fetole ka lehlakoreng.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Allergic Reaction": {
+    "qa": [
+      {
+        "question": "What should I do for an allergic reaction?",
+        "answer": "Use an EpiPen if available. Call emergency services immediately.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngenze njani uma umuntu engena i-allergic reaction?",
+        "answer": "Sebenzisa i-EpiPen uma enayo. Shayela i-10177 ngokushesha.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho etsa joang ha motho a e-na le allergic reaction?",
+        "answer": "Sebelisa EpiPen ha e le teng. Letsetsa litšebeletso tsa tšohanyetso hang.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Breathing Difficulty": {
+    "qa": [
+      {
+        "question": "What should I do for an asthma attack?",
+        "answer": "Use their inhaler. Sit them down, leaning forward.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngenze njani uma umuntu engena i-asthma?",
+        "answer": "Sebenzisa i-inhaler yakhe. Mhlale phansi, ame ngomqolo.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho etsa joang ha motho a e-na le asthma?",
+        "answer": "Sebelisa inhaler ea hae. Mo lulise fatše, a sekame pele.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Stroke": {
+    "qa": [
+      {
+        "question": "How do I check for a stroke?",
+        "answer": "Use FAST: Face, Arm, Speech, Time.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngihlole kanjani i-stroke?",
+        "answer": "Sebenzisa i-FAST: Face (umunwe), Arm (ingalo), Speech (inkulumo), Time (isikhathi).",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho hloka stroke joang?",
+        "answer": "Sebelisa FAST: Face (sefahleho), Arm (letsoho), Speech (puo), Time (nako).",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Fracture": {
+    "qa": [
+      {
+        "question": "Should I try to straighten the bone?",
+        "answer": "No. Splint it in place. Do not move it.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngilungise i-bone?",
+        "answer": "Cha. Ungayilungisi. Yibophe ngendwangu, umise esikhundleni.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho leka ho otlolla lesapo?",
+        "answer": "Che. Le fanyehe sebakeng sa lona. U se ke oa le sisinya.",
+        "language": "Sesotho"
+      }
+    ]
+  },
+  "Labour": {
+    "qa": [
+      {
+        "question": "What should I do for labour?",
+        "answer": "Lay them down in a clean area. Call emergency services.",
+        "language": "English"
+      },
+      {
+        "question": "Kufanele ngenze njani uma umuntu eza i-labour?",
+        "answer": "Mthole phansi, mthole endaweni epholile. Shayela i-10177.",
+        "language": "isiZulu"
+      },
+      {
+        "question": "Ke lokela ho etsa joang ha motho a le beleheng?",
+        "answer": "Mo robale fatše sebakeng se hloekileng. Letsetsa litšebeletso tsa tšohanyetso.",
+        "language": "Sesotho"
+      }
+    ]
+  }
+}
